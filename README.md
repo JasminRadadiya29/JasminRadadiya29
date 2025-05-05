@@ -8,7 +8,7 @@
 - 👨‍💻 Web Development Intern at **World Web Technology**
 - 📈 Open to **collaborations on Web & AI Projects**
 - 💌 How to reach me: **jasminradadiya29@gmail.com**
-- <>  Portfolio : https://portfoliio-git-main-jasmin-s-projects-5161f4df.vercel.app/
+- <>  Portfolio : https://jasminradadiya29.vercel.app/
 
 <br/>
 <h3 align="left">Connect with me:</h3>
